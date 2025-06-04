@@ -50,7 +50,7 @@ main .content {
   color: var(--gray-500);
 }
 
-main .content h3 {
+main .content .learning {
   background-color: var(--primary-color);
   width: fit-content;
   padding: 5px;
@@ -92,6 +92,12 @@ main .footer {
 
 main .footer img {
   width: 32px;
+}
+
+main .footer h2{
+    font-size: 16px;
+    color: var(--gray-950);
+    font-weight: 800;
 }
 
 /* Mobile  */
